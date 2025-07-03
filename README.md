@@ -12,6 +12,8 @@ python -m venv venv
 ### Step 3: Install Required Packages
 pip install -r requirements.txt
 
+### Stem 4: create .env file and put your groq_api key like following
+GROQ_API_KEY="your_api_key
 
 ✅ Option 1: See Output in Terminal
 python Numarology.py
